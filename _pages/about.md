@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Irene's Wonderland🌻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently working as a research assistant with Professor [Lee Fleming](https://funginstitute.berkeley.edu/people/lee-fleming/) at UC Berkeley, in a project that focuses on utilizing deep learning models to analyze US patent data and tackle the challenge of name disambiguation. Prior to this, I earned my Master of Analytics degree from UC Berkeley, and I hold a BSc in Computer Science from the University of Liverpool. 
 
+My research passion primarily revolves around deep reinforcement learning, with an emphasis on multi-agent systems. Additionally, I have a keen interest in computational social science, where I explore the application of cutting-edge machine learning techniques to address societal challenges. For more detailed information, feel free to explore my [research page](/research)! I am actively seeking a PhD position starting either in the fall of 2024 or the spring of 2025. If my research aligns with your interests, please do not hesitate to reach out to me. I look forward to potential collaborations! 
+
+
+
+<!-- ![research summary](/images/sum.png) -->
+
+<!-- <div style="text-align:center;">
+  <img src="/images/summary.png" alt="Image Description" width="450" height="300">
+</div> -->
+
+<!-- My research passion, in general, revolves around the transformation of data into practical solutions using robust deep learning and reinforcement learning models. These models can be applied to address various challenges in fields such as engineering, business, social science, and more. Please visit my research page for further information. I am always open to having a coffee chat to discuss diverse research ideas and exchange insights ☕️. -->
+
+<!-- I am currently engaged in an affiliate research position, with Professor Lee Fleming as my supervisor at UC Berkeley. In this role, I am actively involved in a project that focuses utilizing deep learning models to analyze extensive US patent data for valuable insights derived from big data (explore our work here!).Prior to this, I earned my Master of Analytics degree from UC Berkeley, and I hold a BSc in Computer Science from the University of Liverpool.
+
+I believe big data has the huge potential to create significant impacts in fields like science, arts and society at large, particularly when combined with effective data mining and analytics. My research passion lies in capturing the potential of this expansive data to construct robust machine learning and deep learning models. These models, in turn, offer viable solutions to address practical challenges in egineering, business and social sciences etc.
+
+I also appreciate the intelligent mechanism that forms the foundation of reinforcement learning methods, which facilitates agents learning dynamically and interactively with the environment by trial and error. Specifically, I am interested in utilizing RL methods tackle cooperative and coordination tasks within multi-agent systems. (see my undergraduate thesis on this topic here!)
+
+I am seeking a PhD position starting from 2024 fall or 2025 Spring. If my profile aligns with your interests, please don't hesitate to reach out to me at peng_zheng@berkeley.edu or irenezheng0227@gmail.com if you are interested in my profile!  -->
+
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -47,4 +68,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

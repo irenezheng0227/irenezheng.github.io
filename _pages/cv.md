@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "👩🏻‍💻"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,52 +8,33 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download my CV (PDF)](/files/resume.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Computer Science, University of Liverpool, 2022
+* Master of Analytics, University of California, Berkeley, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Present: Research Assistant
+  * University of California, Berkeley
+  * Conducting advanced research on addressing the name disambiguation challenge in the US patent data by proposing novel deep learning algorithms
+  * Supervisor: Lee Fleming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2023 - Present: Software Engineer Intern
+  * [GamePlay Inc.](https://www.gameplayus.com)
+  * Developing website and Android application functionalities to enhance user experience and product performance
+
+* Fall 2015: Course Reader [INDENG235](https://classes.berkeley.edu/content/2023-spring-indeng-235-001-lec-001)
+  * University of California, Berkeley
+  * Duties included: Assisting in the creation of lab materials for Neural Networks, evaluating and grading assignments, and providing support during lab sessions.
+  * Supervisor: Stewart Liu
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Shuo Gao, Guoguang Wen, Xiaoqin Zhai, and <span style="font-weight: bold;">Peng Zheng</span>, “[Finite-/Fixed-time Bipartite Consensus for First-order Multi-agent Systems via Impulsive Control](https://www.sciencedirect.com/science/article/abs/pii/S0096300322008086)”, Applied Mathematics and Computation, vol. 442, p. 127740, 2023.
+
+* <span style="font-weight: bold;">Peng Zheng</span>, Xiaozhen Guo, Guoguang Wen, “[Fixed-time Adaptive Time-varying Matrix Projective Synchronization of Time-delayed Chaotic Systems with Different Dimensions](https://www.techscience.com/CMES/v131n3/47393)”, Computer Modeling in Engineering & Sciences, vol. 131, no. 3, pp. 1451–1463, 2022.
+
+* Rui Yang, Chao Peng, Chenchao Wang, Mengdan Wang, Yao Chen, <span style="font-weight: bold;">Peng Zheng</span>, Neal N. Xiong, “[CSAGAN: Channel and Spatial Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation](https://ieeexplore.ieee.org/document/9658979)”, 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Melbourne, Australia, pp. 3258-3265, 2021.
