@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Extending QMIX with Simple Techniques from Single- Agent Reinforcement Learning
+Extending QMIX with Simple Techniques from Single-Agent Reinforcement Learning
 ======
 
 Key Words: Patent Data, Computational Social Science, Deep Learning

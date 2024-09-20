@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a research assistant with Professor [Lee Fleming](https://funginstitute.berkeley.edu/people/lee-fleming/) at UC Berkeley, in a project that focuses on utilizing deep learning models to analyze US patent data and tackle the challenge of name disambiguation. Prior to this, I earned my Master of Analytics degree from UC Berkeley, and I hold a BSc in Computer Science from the University of Liverpool. 
+I am a PhD student at University of Melbourne and a Graduate Researcher, supervised by [Prof. Nando Ochoa](https://sites.google.com/view/luisfochoa). Prior to this, I earned my Master of Analytics degree from UC Berkeley, and I hold a BSc in Computer Science from the University of Liverpool. 
 
-My research passion primarily revolves around deep reinforcement learning, with an emphasis on multi-agent systems. Additionally, I have a keen interest in computational social science, where I explore the application of cutting-edge machine learning techniques to address societal challenges. For more detailed information, feel free to explore my [research page](/research)! I am actively seeking a PhD position starting either in the fall of 2024 or the spring of 2025. If my research aligns with your interests, please do not hesitate to reach out to me. I look forward to potential collaborations! 
-
-
+For more detailed information, feel free to explore my [research page](/research)!
 
 <!-- ![research summary](/images/sum.png) -->
 

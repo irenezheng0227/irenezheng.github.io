@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Irene Zheng"
   avatar           : "profile.png"
-  bio              : "Researcher, Engineer, and Music Lover🎵"
-  location         : #"Berkeley, CA"
+  bio              : "Researcher, Engineer"
+  location         : #"Melbourne, AU"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B8CdqvQAAAAJ&hl=en&authuser=1"
-  email            : "peng_zheng@berkeley.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "zhengiz@student.unimelb.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Irene-Zheng-7"
   uri              :
   bitbucket        :
   codepen          :
